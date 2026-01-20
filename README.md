@@ -21,3 +21,8 @@ JavaScript is used to add basic interactivity and functionality to the website. 
 The development of this portfolio website is done using Visual Studio Code (VS Code), which is a popular and beginner-friendly code editor. VS Code provides useful features such as syntax highlighting, extensions, and an integrated terminal that make coding easier and more organized. The Live Server extension in VS Code is used to run and preview the website in a web browser in real time while making changes.
 Git and GitHub are used for version control and project storage. Git helps in tracking changes made to the project files, while GitHub is used to store the project in an online repository. All files related to the portfolio website, including HTML, CSS, and JavaScript files, are uploaded to GitHub. This allows the project to be shared easily and also demonstrates the student’s understanding of basic version control concepts, which are essential in software development.#
 Overall, this portfolio website project helps in understanding the fundamentals of web development, improves practical coding skills, and builds confidence in using modern development tools. It serves as a strong foundation for advanced web technologies and is a valuable addition to a Master’s degree student’s academic and professional profile.
+
+
+
+#OUTPUT
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/844d4698-6aed-413e-af1c-201865fca786" />
