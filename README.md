@@ -26,3 +26,4 @@ Overall, this portfolio website project helps in understanding the fundamentals 
 
 #OUTPUT
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/844d4698-6aed-413e-af1c-201865fca786" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b6c56be5-c84c-4202-9b69-1f9ebfc73e27" />
