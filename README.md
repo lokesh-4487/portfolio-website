@@ -5,6 +5,9 @@
 *DOMAIN* : SOFTWARE DEVELOPMENT
 *DURATION* : 8 WEEKS
 *MENTOR* : NEELA SANTOSH
+
+
+
 #A portfolio website is a personal static website created to represent a student’s academic background, technical skills, projects, and basic personal information in a professional manner. As a Master’s degree student in Computer Science, creating a portfolio website is an important step toward learning web development fundamentals and showcasing skills to internship providers and future employers. This portfolio website is developed as part of an internship task using basic web technologies such as HTML, CSS, and JavaScript. The website is static in nature, which means the content remains the same for all users and does not require a database or server-side programming.
 The main purpose of this portfolio website is to provide a simple and clear introduction about the student, including educational background, skills, projects, and contact information. The website consists of different sections such as header, about me, skills, projects, and contact details. Each section is designed in a clean and readable manner so that anyone visiting the website can easily understand the student’s profile. This portfolio acts as a digital resume and helps in building an online presence.
 HTML (HyperText Markup Language) is used to create the basic structure of the website. It defines the content of the webpage such as headings, paragraphs, lists, and sections. In this project, HTML is used to create different sections like the header for the student’s name, an about section to describe personal and academic details, a skills section to list technical abilities, and a contact section for communication details. HTML provides the foundation on which the entire website is built.
